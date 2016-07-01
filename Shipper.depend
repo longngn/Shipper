@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1457177322 source:e:\dropbox\project\shipper\calpath.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<sstream>
+	<map>
+	<set>
+	<vector>
+	<cmath>
+	<utility>
+	<list>
+	<bitset>
+	<functional>
+	<cstring>
+	<ctime>
+	<fstream>
+
+1457446737 source:e:\dropbox\project\shipper\gen_data.cpp
+	<fstream>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	"geometry.h"
+	"info.h"
+	"class.h"
+	"gen_data.h"
+
+1457415902 e:\dropbox\project\shipper\geometry.h
+
+1457415919 source:e:\dropbox\project\shipper\geometry.cpp
+	<cmath>
+	"geometry.h"
+	"info.h"
+
+1457445240 source:e:\dropbox\project\shipper\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"gen_data.h"
+	"process.h"
+	"info.h"
+
+1457409980 e:\dropbox\project\shipper\gen_data.h
+	<string>
+	"geometry.h"
+
+1457416189 e:\dropbox\project\shipper\info.h
+
+1457415896 e:\dropbox\project\shipper\class.h
+	<vector>
+	<list>
+	<map>
+	"geometry.h"
+
+1457409987 source:e:\dropbox\project\shipper\printing.cpp
+	<string>
+	<sstream>
+
+1457446580 source:e:\dropbox\project\shipper\class.cpp
+	"class.h"
+	"info.h"
+	"geometry.h"
+	<map>
+	<iostream>
+
+1457444874 source:e:\dropbox\project\shipper\process.cpp
+	<fstream>
+	<vector>
+	<map>
+	<set>
+	<list>
+	<algorithm>
+	<cmath>
+	<ctime>
+	<iostream>
+	"geometry.h"
+	"info.h"
+	"class.h"
+	"process.h"
+	"printing.h"
+
+1457416030 e:\dropbox\project\shipper\process.h
+	<vector>
+	"geometry.h"
+	"class.h"
+
+1457407299 e:\dropbox\project\shipper\printing.h
+
