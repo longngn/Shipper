@@ -1,7 +1,0 @@
-﻿- Đa dạng hóa yêu cầu ship
-	+ 1: chuyển ngay, ko muộn quá 15 phút, ko đi lâu hơn 10 phút so với đi thẳng
-	+ 2: đưa đến địa điểm vào 1 khoảng giờ xác định (VD: chuyển hàng từ điểm A đến điểm B và giao hàng trong khoảng thời gian từ 4h-5h)
-	+ 3: lúc gọi là xác định khoảng giờ nhận hàng và giờ giao hàng
-	(VD: đến lấy từ 1h-2h và giao lúc 2h30-3h)
-	
-	mỗi loại 1000 cái
